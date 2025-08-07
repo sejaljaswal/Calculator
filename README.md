@@ -13,15 +13,11 @@ A basic calculator built using **HTML**, **CSS**, and **JavaScript** that perfor
 
 ---
 
-## 📸 Demo
 
-![Calculator Screenshot](./Users/sejaljaswal/Desktop/Calculator/Screenshot 2025-08-07 at 2.54.04 PM.png)
-
----
 
 ## 🚀 Live Preview
 
-[Click here to use the Calculator](https://your-deployment-link.com)  
+[Click here to use the Calculator]([https://your-deployment-link.com](https://calculatorrrrrrrrrrrrr.netlify.app/))  
 
 
 ---
