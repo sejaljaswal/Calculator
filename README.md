@@ -17,7 +17,7 @@ A basic calculator built using **HTML**, **CSS**, and **JavaScript** that perfor
 
 ## 🚀 Live Preview
 
-[Click here to use the Calculator]([https://your-deployment-link.com](https://calculatorrrrrrrrrrrrr.netlify.app/))  
+[Click here to use the Calculator] (https://your-deployment-link.com](https://calculatorrrrrrrrrrrrr.netlify.app/)  
 
 
 ---
